@@ -1,3 +1,7 @@
 export const AuthSignIn = () => {
-  return <p>Pagina auth sign-in</p>;
+  return (
+    <div>
+      <h1>Página auth sign-in</h1>
+    </div>
+  );
 };
